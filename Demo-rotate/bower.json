@@ -1,0 +1,25 @@
+{
+  "name": "Demo-rotate",
+  "version": "0.0.1",
+  "license": "MIt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "lodash": "2.2.1"
+  },
+  "description": "a simple element ratate library",
+  "main": "ratate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "authors": [
+    "Richa"
+  ],
+  "homepage": "Bower"
+}
